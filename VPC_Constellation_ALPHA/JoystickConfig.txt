@@ -1,0 +1,119 @@
+
+; Select a joystick with force feedback
+; 0 to select the first device
+; -1 to select the last device
+; integer value to select a device by its index
+JoystickFFDeviceIndex = 0
+
+; Enable small joystick movement
+; 0 to disable small movement
+; 1 to enable small movement
+EnableSmallMovement = 1
+
+; Select the controller used for the main axis and buttons
+MainControllerIndex = 0
+
+; Select the controller used for yaw
+YawControllerIndex = 0
+
+; Select the controller axis used for yaw
+YawControllerAxisIndex = 0
+
+; Invert yaw axis
+InvertYaw = 0
+
+; Select the controller used for pitch
+PitchControllerIndex = 0
+
+; Select the controller axis used for pitch
+PitchControllerAxisIndex = 1
+
+; Invert pitch axis
+InvertPitch = 0
+
+; Select the controller used for throttle
+ThrottleControllerIndex = 0
+
+; Select the controller axis used for throttle
+ThrottleControllerAxisIndex = 7
+
+; Invert throttle axis
+InvertThrottle = 0
+
+; Select the controller used for rudder
+RudderControllerIndex = 0
+
+; Select the controller axis used for rudder
+RudderControllerAxisIndex = 2
+
+; Invert rudder axis
+InvertRudder = 0
+
+; Use the POV as regular buttons
+; 0 to continious movement
+; 1 to enable regular buttons
+UsePovControllerAsButtons = 0
+
+; None No function
+joybutton_860111052_1 = 0
+; Alt-2 Fire weapon
+joybutton_860111052_2 = 156
+; R Target nearest fighter
+joybutton_860111052_3 = 114
+; L Toggle padlock view on/off
+joybutton_860111052_4 = 108
+; E Cycle through fighters targeting you
+joybutton_860111052_5 = 101
+; X Cycle firing settings
+joybutton_860111052_6 = 120
+; A Target attacker of target
+joybutton_860111052_7 = 97
+; T Next target
+joybutton_860111052_8 = 116
+; F1 Target next friendly craft
+joybutton_860111052_9 = 195
+; Y Previous target
+joybutton_860111052_10 = 121
+; F2 Target next neutral craft
+joybutton_860111052_11 = 196
+; X Cycle firing settings
+joybutton_860111052_12 = 120
+; Alt-1 Pick target in sight
+joybutton_860111052_13 = 155
+; F3 Target next enemy craft
+joybutton_860111052_14 = 197
+; I Target nearest incoming warhead
+joybutton_860111052_15 = 105
+; F4 Target previous enemy craft
+joybutton_860111052_16 = 198
+; E Cycle through fighters targeting you
+joybutton_860111052_17 = 101
+; Pad-* Reposition camera in external mode
+joybutton_860111052_18 = 190
+; Ctrl-L Toggle Landing Gears
+joybutton_860111052_19 = 282
+; Pad-/ External camera mode
+joybutton_860111052_20 = 189
+; Z Toggle laser convergence
+joybutton_860111052_21 = 122
+; None No function
+joybutton_860111052_22 = 0
+; < Reverse cycle through target's components
+joybutton_860111052_23 = 60
+; ,(Comma) Cycle through target's components
+joybutton_860111052_24 = 44
+; V Toggle S-Foil
+joybutton_860111052_25 = 118
+; S Cycle shield settings
+joybutton_860111052_26 = 115
+; C Fire countermeasure
+joybutton_860111052_27 = 99
+; Space Confirm critical orders
+joybutton_860111052_28 = 32
+; None No function
+joybutton_860111052_29 = 0
+; Enter Match targeted craft's speed
+joybutton_860111052_30 = 13
+; None No function
+joybutton_860111052_31 = 0
+
