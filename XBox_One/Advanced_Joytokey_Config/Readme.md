@@ -1,15 +1,19 @@
+# Why use Joytokey?
+
+Unfortunately, `Xwa Joystick Configurator` has limited functionality to configure your gamepad for advanced use cases. If you'd like use triggers as buttons (eg. to fire weapons) or switch to alternative layouts based on a button press, you'll need to disable assignments in the configurator and override them with a more advanced mapping application. I described usage of Joytokey below, but any other app can be used in that fashion. 
+
 # How to setup Joytokey for TFTC
 
 1. Download and install [JoyToKey](https://joytokey.net/en/download). JoyToKey is a shareware application which you can freely download and evaluate without any limitation in functionality.
 2. Copy the `Xwing_TIE_Fighter.cfg` file to your Joytokey profile folder, which should be `C:\Users\your-user-name\Documents\JoyToKey` by default. Once copied, it should be listed within the profile list on the left as shown below.
 
-![JoytoKey Profile](../imgs/Joytokey_Profile.png "JoytoKey Profile")
+![JoytoKey Profile](../../_images/Joytokey_Profile.png "JoytoKey Profile")
 
 3. Open up your `Xwa Joystick Configurator` and set your buttons to `[0, None No function]` and the Throttle axis to 5. The idea here is to nullify Xwa's own joystick configuration and override it with Joytokey instead. Setting the Throttle axis to a non-valid axis index will effectively disable it. You can also use the `JoystickConfig.txt` listed here, simply using the `Open...` menu and saving over your configuration.
 
-![Xwa Joystick Configurator 1](../imgs/Xwa_Joystick_Configurator_1.png "Xwa Joystick Configurator 1")
+![Xwa Joystick Configurator 1](../../_images/Xwa_Joystick_Configurator_1.png "Xwa Joystick Configurator 1")
 
-![Xwa Joystick Configurator 2](../imgs/Xwa_Joystick_Configurator_2.png "Xwa Joystick Configurator 2")
+![Xwa Joystick Configurator 2](../../_images/Xwa_Joystick_Configurator_2.png "Xwa Joystick Configurator 2")
 
 4. Keep the Joytokey application open and start the game.
 
