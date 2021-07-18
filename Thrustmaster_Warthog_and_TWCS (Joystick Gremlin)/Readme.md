@@ -7,8 +7,8 @@ The profile (xml) file in this folder is a Joystick Gremlin configuration file. 
 ## Files
 
 - TieFighterWarthog-and-TWCS-Gremlin-profile.xml - the actual profile to be loaded.
-- Joystick Gremlin Warthog Template.png - a template file that shows how Joystick Gremlin enumerates the buttons and axes used by these controllers.
-- Tie Fighter Warthog and TWCS Mapping Diagram.png - a handy diagram showing all the axis and button mappings configured in this profile.
+- Joystick_Gremlin_Warthog_Template.png - a template file that shows how Joystick Gremlin enumerates the buttons and axes used by these controllers.
+- Tie_Fighter_Warthog_and_TWCS_Mapping_Diagram.png - a handy diagram showing all the axis and button mappings configured in this profile.
 
 ## Pre-Requisites
 
@@ -23,3 +23,10 @@ To use a Joystick Gremlin profile, it is assumed that you have done the followin
 3. 'Activate' the profile in Joystick Gremlin.
 4. Launch X-Wing Alliance
 5. In 'Game Controller Settings', select the vJoy Device.  (You only need to do this once.)
+
+
+## Template and Mapping Diagram
+
+![Joystick Gremlin Warthog Template](./Joystick_Gremlin_Warthog_Template.png "Joystick Gremlin Warthog Template")
+
+![XTie Fighter Warthog and TWCS Mapping Diagram](./Tie_Fighter_Warthog_and_TWCS_Mapping_Diagram.png "Tie Fighter Warthog and TWCS Mapping Diagram")
