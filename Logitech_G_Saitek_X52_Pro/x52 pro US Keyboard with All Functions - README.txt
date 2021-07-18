@@ -1,0 +1,1 @@
+In order for this mapping to work, you must go into the XWA Settings and remove all mappings other than the primary fire.
