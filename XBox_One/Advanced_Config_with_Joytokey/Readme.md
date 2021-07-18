@@ -43,12 +43,12 @@ Unfortunately, `Xwa Joystick Configurator` has limited functionality to configur
 | D Button - Right                     | T                   | Next target                |
 | D Button - Up                        | A                   | Target attacker of target  |
 | D Button - Down                      | E                   | Cycle through fighters targetting you |
-| Back                                 | Escape              | Options screen                    |
+| Back                                 | Shift B             | Signal re-supply ship                    |
 | Select                               | S                   | Cycle shield settings             |
 | L2 + Button - A                      | O                   | Target nearest objective craft    |
 | L2 + Button - B                      | Shift S             | Call for reinforcements |
 | L2 + Button - X                      | C                   | Fire countermeasure  |
-| L2 + Button - Y                      | H                   | Restart mission      |
+| L2 + Button - Y                      | Shift A             | Assign target to wingmen      |
 | L2 + Left Bumper                     | \ (Backslash)       | Zero throttle         |
 | L2 + Right Bumper                    | Backspace           | Full throttle        |
 | L2 + D Button Left                   | Shift , (Comma)     | Reverse cycle through targets components |
@@ -59,5 +59,4 @@ Unfortunately, `Xwa Joystick Configurator` has limited functionality to configur
 | L2 + Right stick (R3)                | ' (Apostrophe)      | Transfer laser energy to shields |
 | L2 + Back                            | F8                  | Adjust beam recharge rate |
 | L2 + Select                          | Z                   | Toggle laser convergence |
-| L2 + Right Stick - Up                | Shift A             | Assign target to wingmen     |
 | L2 + Right Stick - Down              | Shift C             | Order wingmen to cover you   |
