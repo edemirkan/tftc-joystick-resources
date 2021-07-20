@@ -12,7 +12,7 @@ Many of these profiles are using the XWA txt file, so download the profile of yo
 ## How can I fix my endless roll / spinning?
 First, make sure to disable the `Rudder` in the in-game menu which can be accessed by pressing `ESC` key. Using the Joystick Configurator, you can also modify the axis controls or even bind an axis to a non-existent controller ID in the joystick configurator to stop some rolling or spinning issues. If you for some reason don't have a joystick or even a controller, the game can even be controlled purely by keyboard and mouse. To do this, use the `Babu Frik Configurator` to turn on joystick emulation and set the mouse sensitivity.
 
-## The hat buttons on my XXXX brand Joystick is acting weird. Instead of 1 click = 1 input, it just keeps spamming and repeats my input.
+## The hat buttons on my Joystick is acting really weird. Instead of registering a single input, it just keeps spamming and repeating...
 
 Enable the checkbox that says "Use the POV as regular buttons” in the Settings tab of Joystick Configurator. 
 
