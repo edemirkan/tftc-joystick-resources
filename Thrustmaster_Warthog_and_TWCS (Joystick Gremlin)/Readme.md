@@ -1,3 +1,7 @@
+# Configurations provided for this joystick
+
+1. `TieFighterWarthog-and-TWCS-Gremlin-profile.xml`
+
 # How To Load the Profile
 
 ## Intro
