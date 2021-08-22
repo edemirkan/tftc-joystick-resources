@@ -1,0 +1,125 @@
+
+; Select a joystick with force feedback
+; 0 to select the first device
+; -1 to select the last device
+; integer value to select a device by its index
+JoystickFFDeviceIndex = 0
+
+; Enable small joystick movement
+; 0 to disable small movement
+; 1 to enable small movement
+EnableSmallMovement = 1
+
+; Select the controller used for the main axis and buttons
+MainControllerIndex = 1
+
+; Select the controller used for yaw
+YawControllerIndex = 1
+
+; Select the controller axis used for yaw
+YawControllerAxisIndex = 0
+
+; Invert yaw axis
+InvertYaw = 0
+
+; Select the controller used for pitch
+PitchControllerIndex = 1
+
+; Select the controller axis used for pitch
+PitchControllerAxisIndex = 1
+
+; Invert pitch axis
+InvertPitch = 0
+
+; Select the controller used for throttle
+ThrottleControllerIndex = 1
+
+; Select the controller axis used for throttle
+ThrottleControllerAxisIndex = 2
+
+; Invert throttle axis
+InvertThrottle = 0
+
+; Select the controller used for rudder
+RudderControllerIndex = 1
+
+; Select the controller axis used for rudder
+RudderControllerAxisIndex = 3
+
+; Invert rudder axis
+InvertRudder = 0
+
+; Use the POV as regular buttons
+; 0 to continious movement
+; 1 to enable regular buttons
+UsePovControllerAsButtons = 1
+
+; None No function
+joybutton_0_1 = 0
+; Shift-C Order wingmen to cover you
+joybutton_0_2 = 67
+; Shift-W Order craft to stop/wait
+joybutton_0_3 = 87
+; Shift-A Assign target to wingmen
+joybutton_0_4 = 65
+; None No function
+joybutton_0_5 = 0
+; None No function
+joybutton_0_6 = 0
+; None No function
+joybutton_0_7 = 0
+; None No function
+joybutton_0_8 = 0
+; None No function
+joybutton_0_9 = 0
+; None No function
+joybutton_0_10 = 0
+; None No function
+joybutton_0_11 = 0
+; None No function
+joybutton_0_12 = 0
+; None No function
+joybutton_0_13 = 0
+; O Target nearest objective craft
+joybutton_0_14 = 111
+; None No function
+joybutton_0_pov1 = 0
+; None No function
+joybutton_0_pov2 = 0
+; None No function
+joybutton_0_pov3 = 0
+; None No function
+joybutton_0_pov4 = 0
+; Alt-2 Fire weapon
+joybutton_1_1 = 156
+; Alt-3 Roll/Target ship in sights
+joybutton_1_2 = 157
+; R Target nearest fighter
+joybutton_1_3 = 114
+; C Fire countermeasure
+joybutton_1_4 = 99
+; E Cycle through fighters targeting you
+joybutton_1_5 = 101
+; I Target nearest incoming warhead
+joybutton_1_6 = 105
+; W Cycle weapon settings
+joybutton_1_7 = 119
+; M Map mode
+joybutton_1_8 = 109
+; T Next target
+joybutton_1_9 = 116
+; Y Previous target
+joybutton_1_10 = 121
+; F10 Adjust shield recharge rate
+joybutton_1_11 = 204
+; F9 Adjust laser recharge rate 
+joybutton_1_12 = 203
+; F3 Target next enemy craft
+joybutton_1_pov1 = 197
+; None No function
+joybutton_1_pov2 = 0
+; SHIFT-F3 Target previous enemy craft
+joybutton_1_pov3 = 209
+; U Target newest craft
+joybutton_1_pov4 = 117
+
