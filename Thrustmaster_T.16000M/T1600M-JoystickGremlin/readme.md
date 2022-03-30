@@ -1,6 +1,6 @@
 This binding uses Joystick Gremlin (https://whitemagic.github.io/JoystickGremlin/download/) and vJoy (https://sourceforge.net/projects/vjoystick/).
 
-To use it, first install vJoy and set it up (Make sure the "Number of Buttons" is high enough; 40 is high enough). This virtually combines your throttle and joystick into one device that X-Wing Alliance can use.
+To use it, first install vJoy and set it up. This virtually combines your throttle and joystick into one device that X-Wing Alliance can use.
 
 You need to go to the Joystick Configurator in the XWA Upgrade launcher and make sure it uses the "vJoy Device" as the joystick. Here, you must also set up the axis. In the "Buttons" tab, select the following:
 - joybutton_0_1: Alt-2 Fire Weapon
