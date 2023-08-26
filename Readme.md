@@ -22,7 +22,9 @@ Sorry to hear that. Unfortunately it's impossible for us to verify each and ever
 
 ## Sometimes my joystick behaves really weird, I can't stay on target!
 
-You may notice when looking at the 'poles' of the skybox map, you will find you're suddenly fighting the game in keeping on target, almost like two magnets repelling each other when you try to bring them together. This is due to a game engine issue that is present in all the X-Wing/TIE Fighter series of games which is essentially some form of gimbal lock. Without understanding how and where in the code of the EXE this issue occurs, it is not possible at this time for us to fix it or even if it’s fixable at all.
+You may notice when looking at the 'poles' of the skybox map, you will find you're suddenly fighting the game in keeping on target, almost like two magnets repelling each other when you try to bring them together. This is due to a game engine issue that is present in all the X-Wing/TIE Fighter series of games which is essentially some form of gimbal lock. ~~Without understanding how and where in the code of the EXE this issue occurs, it is not possible at this time for us to fix it or even if it’s fixable at all.~~
+Thanks to @JeremyAnsel the latest hooks get rid of this limitation and allow proper ship control.
+Make sure to update to the latest hooks by updating XWAU/TFTC to the most recent versions, or download the latest gooks directly with XwaHooksSetup.
 
 ## This looks awesome, where can I get more info about this mod?
 
