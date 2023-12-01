@@ -26,6 +26,21 @@ To get the best results, be quick and snappy with your short-presses to ensure t
 
 ![Full Controller map](../../_images/XBox_One_Comprehensive_Joytokey_Config.jpg)
 
+## Layout
+The key to this layout is the command groupings. Commands are categorized into small logical groups. If you can remember the groups, and what their root buttons are, you'll be able to intuitively find your way around the controller.
+
+The groups are:
+- A - Target-Nearest
+- B - Target-Next
+- X - Weapons
+- Y - Shields/Recharge
+- D-Up - Wingmen-Combat
+- D-Down - Wingmen-Mission
+- D-Left/Right - Power
+- LT - Views/Mission
+- LT + RT - HUD
+- Select - Game
+
 ## Installation
 1. Copy the `JoystickConfig.txt` file to the root of your `X-Wing Alliance` folder. Overwrite the file if it exists.
 3. Install [JoyToKey](https://joytokey.net/en/).
