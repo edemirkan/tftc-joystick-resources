@@ -9,9 +9,12 @@ JoystickFFDeviceIndex = 0
 ; 0 to disable small movement
 ; 1 to enable small movement
 EnableSmallMovement = 1
+SmallMovement_8C1CC2 = 64
+SmallMovement_8C1CC0 = 24
+SmallMovement_8C1CC4 = 64
 
 ; Select the controller used for the main axis and buttons
-MainControllerIndex = 0
+MainControllerIndex = 1
 
 ; Select the controller used for yaw
 YawControllerIndex = 0
@@ -22,6 +25,9 @@ YawControllerAxisIndex = 0
 ; Invert yaw axis
 InvertYaw = 0
 
+; Multiply yaw axis
+YawMultiplicator = 1
+
 ; Select the controller used for pitch
 PitchControllerIndex = 0
 
@@ -29,51 +35,63 @@ PitchControllerIndex = 0
 PitchControllerAxisIndex = 1
 
 ; Invert pitch axis
-InvertPitch = 0
+InvertPitch = 1
+
+; Multiply pitch axis
+PitchMultiplicator = 1
 
 ; Select the controller used for throttle
 ThrottleControllerIndex = 0
 
 ; Select the controller axis used for throttle
-ThrottleControllerAxisIndex = 2
+ThrottleControllerAxisIndex = 5
 
 ; Invert throttle axis
 InvertThrottle = 0
+
+; Multiply throttle axis
+ThrottleMultiplicator = 1
 
 ; Select the controller used for rudder
 RudderControllerIndex = 0
 
 ; Select the controller axis used for rudder
-RudderControllerAxisIndex = 3
+RudderControllerAxisIndex = 5
 
 ; Invert rudder axis
 InvertRudder = 0
 
+; Multiply rudder axis
+RudderMultiplicator = 1
+
 ; Use the POV as regular buttons
 ; 0 to continious movement
 ; 1 to enable regular buttons
-UsePovControllerAsButtons = 0
+UsePovControllerAsButtons = 1
 
-; E Cycle through fighters targeting you
-joybutton_0_1 = 101
-; Alt-3 Roll/Target ship in sights
-joybutton_0_2 = 157
-; W Cycle weapon settings
-joybutton_0_3 = 119
-; L Toggle padlock view on/off
-joybutton_0_4 = 108
-; E Cycle through fighters targeting you
-joybutton_0_5 = 101
-; I Target nearest incoming warhead
-joybutton_0_6 = 105
-; \ Zero throttle
-joybutton_0_7 = 92
-; Alt-2 Fire weapon
-joybutton_0_8 = 156
-; Alt-1 Pick target in sight
-joybutton_0_9 = 155
-; Enter Match targeted craft's speed
-joybutton_0_10 = 13
+; Virtual cockpit look sensitivity
+VirtualCockpitLookSensitivity = 1200
+
+; None No function
+joybutton_0_1 = 0
+; None No function
+joybutton_0_2 = 0
+; None No function
+joybutton_0_3 = 0
+; None No function
+joybutton_0_4 = 0
+; None No function
+joybutton_0_5 = 0
+; None No function
+joybutton_0_6 = 0
+; None No function
+joybutton_0_7 = 0
+; None No function
+joybutton_0_8 = 0
+; None No function
+joybutton_0_9 = 0
+; None No function
+joybutton_0_10 = 0
 ; None No function
 joybutton_0_11 = 0
 ; None No function
@@ -86,12 +104,12 @@ joybutton_0_14 = 0
 joybutton_0_15 = 0
 ; None No function
 joybutton_0_16 = 0
-; SHIFT-F9 Transfer shield energy to lasers
-joybutton_0_pov1 = 215
-; SHIFT-F10 Transfer laser energy to shields
-joybutton_0_pov2 = 216
-; SHIFT-F3 Target previous enemy craft
-joybutton_0_pov3 = 209
-; F3 Target next enemy craft
-joybutton_0_pov4 = 197
+; None No function
+joybutton_0_pov1 = 0
+; None No function
+joybutton_0_pov2 = 0
+; None No function
+joybutton_0_pov3 = 0
+; None No function
+joybutton_0_pov4 = 0
 
