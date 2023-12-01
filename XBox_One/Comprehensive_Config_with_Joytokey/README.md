@@ -35,5 +35,7 @@ To get the best results, be quick and snappy with your short-presses to ensure t
 6. In the Game menu, set **Enable Rudder** to **no**
 7. Enjoy
 
+https://github.com/joshuathorne
+
 ## Full X-Wing Alliance Command List
 ![Full Controller map](../../_images/XBox_One_Comprehensive_Joytokey_Config__Command_List.PNG)
