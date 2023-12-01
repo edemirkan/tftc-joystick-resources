@@ -27,7 +27,7 @@ To get the best results, be quick and snappy with your short-presses to ensure t
 ![Full Controller map](../../_images/XBox_One_Comprehensive_Joytokey_Config.jpg)
 
 ## Layout
-The key to this layout is the command groupings. Commands are categorized into small logical groups. If you can remember the groups, and what their root buttons are, you'll be able to intuitively find your way around the controller.
+The key to this layout are the command groupings. Commands are categorized into small logical groups. If you can remember the groups, and what their root buttons are, you'll be able to intuitively find your way around.
 
 The groups are:
 - A - Target-Nearest
