@@ -13,8 +13,6 @@ Includes most commands for:
 - HUD Interactions
 - Lobby Controls
 
-Some commands have been streamlined. For instance all the different throttle commands have been reduced to throttle+ / throttle-, but with a throttle rate rapid enough to make the more granular commands unnecessary.
-
 The only functionality totally left out is multiplayer communication, and targeting presets.
 
 ## Short Press / Long Press
