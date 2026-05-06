@@ -37,3 +37,11 @@ To use a Joystick Gremlin profile, it is assumed that you have done the followin
 ![Joystick Gremlin Warthog Template](./warthog/profile-2/joystick-gremlin-warthog-template.png "Joystick Gremlin Warthog Template")
 
 ![XTie Fighter Warthog and TWCS Mapping Diagram](./warthog/profile-2/tie-fighter-warthog-and-twcs-mapping-diagram.png "Tie Fighter Warthog and TWCS Mapping Diagram")
+
+---
+
+## :material-cog: Profile 3
+
+- [Star_Wars_XWAU.fcf](./warthog/profile-3/Star_Wars_XWAU.fcf)
+- [Star_Wars_XWAU.pdf](./warthog/profile-3/Star_Wars_XWAU.pdf)
+
