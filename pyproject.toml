@@ -3,10 +3,10 @@ name = "tftc-joystick-resources"
 version = "0.1.0"
 description = "TIE Fighter Total Conversion (TFTC) Joystick Resources"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.15"
 dependencies = []
 
 [dependency-groups]
 dev = [
-    "zensical>=0.0.24",
+    "zensical>=0.1.0",
 ]
